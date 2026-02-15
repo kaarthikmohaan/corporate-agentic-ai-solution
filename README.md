@@ -159,4 +159,3 @@ Expected Output	- If fetch fails: “An error occurred: …”- If no job text: 
 Validation	No crash. App remains usable.
 Conclusion
 Overall, the application successfully transforms manual outreach into an intelligent, scalable, and user-friendly workflow for business development teams. With further enhancements like user authentication, usage tracking, multi-user dashboards, and CRM integration, this tool can evolve into a powerful platform for enterprise-grade outreach automation.
-<img width="468" height="637" alt="image" src="https://github.com/user-attachments/assets/e0e0d03f-cc0f-4128-bc39-4e482834fc44" />
